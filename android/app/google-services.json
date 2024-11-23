@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652150219766",
+    "project_id": "waiterboth",
+    "storage_bucket": "waiterboth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652150219766:android:8b9a9fe3c82c8c04ec1dd7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFaiSxv6eYTJGuDv3kpatyiLrR2tTxZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
